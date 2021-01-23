@@ -1,0 +1,26 @@
+body{
+   
+color: #fc6e6e;
+        background-image: url('https://i.pinimg.com/originals/26/42/00/264200a36902e032f45dcc3212d11177.gif');
+        background-size: cover;
+
+}
+
+.Register{
+    color: rgb(255, 0, 255);
+    
+}
+
+.İcolor{
+    
+    background-image: url("https://i.pinimg.com/originals/b1/e0/a7/b1e0a76978fa004dccbed2ec92bc6708.gif");
+    color: rgb(0, 153, 255);
+}
+
+#PassWord{
+    color: rgb(0, 255, 0);
+}
+
+.PrivateInfo{
+    color: hotpink;
+}
